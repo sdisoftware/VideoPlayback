@@ -33,7 +33,7 @@ import android.graphics.BitmapFactory;
  *  Exposes functionality for loading a texture from the APK.
  *
  * */
-
+//ye git test
 public class Texture
 {
     public int mWidth;      /// The width of the texture.
