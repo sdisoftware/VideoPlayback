@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SDI Software Video Play</string>
+    <string name="app_description">SDISoftware VideoPlayback Application</string>
+    <string name="startup_description">SDI Software tarafından hazırlanmıştır. Destekleyen cihazlarda tracker üstünde video gösterir. Desteklenmeyen cihazlarda ise tam ekran video oynatır.</string>
+    <string name="startup_button">Başla</string>
+    <string name="background_view_img">Background</string>
+</resources>
